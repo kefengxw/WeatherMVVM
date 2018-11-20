@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherMVVM</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="timezone">Timezone:</string>
+    <string name="time">Time:</string>
+    <string name="summary">Summary:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="windspeed">WindSpeed:</string>
+    <string name="cloudcover">CloudCover:</string>
+    <string name="visibility">Visibility:</string>
+    <string name="the_others_items">---The others items will be added later!---</string>
+</resources>
