@@ -1,2 +1,2 @@
 # WeatherMVVM
-Weather Code
+WeatherMVVM is based on MVVM architecture
